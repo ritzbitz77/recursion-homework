@@ -1,0 +1,32 @@
+Recursion
+
+In your own words, what is recursion?
+
+    Recursion is when a function can call itself. 
+
+
+
+Why is it necessary to have a base case?
+
+    It's always important to have a base case so that your function has a stopping point or it will keep going on which may cause an error.
+
+
+Graphs
+
+What is a graph?
+
+    A graph is an abstract data type that:
+    - can be directed our undirected
+    - each graph has a set of nodes (or vertices)
+    - for a directed graph these nodes are called arrows, directed edges, directed arcs, or directed lines
+    - for undirected graphs these nodes are called edges, arcs, or lines
+
+
+How is a graph different from a tree?
+    
+    A graph can contain loops while a tree cannot. Relationships can be directed or undirected unlike with trees.
+
+
+Give an example of something that would be good to model with a graph.
+
+    Maps are good example of using graphs in computer science
